@@ -1,3 +1,4 @@
 # Dice-game
-A javascript based project
+A javascript based project.
+<br>
 Author- Mohit Gupta
