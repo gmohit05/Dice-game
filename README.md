@@ -1,4 +1,5 @@
 # Dice-game
-A javascript based project.
+
+Guess the number- a javascript based project.
 <br>
 Author- Mohit Gupta
